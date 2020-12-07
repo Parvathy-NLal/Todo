@@ -1,0 +1,3 @@
+<h1>Ajax</h1>
+<p>Ajax is not a programming language
+Ajax is a technique for accessing web servers</p>

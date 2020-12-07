@@ -1,0 +1,16 @@
+{
+    "people":[
+        {
+            "name":"Meera",
+            "gender":"Female"
+        },
+        {
+            "name":"Madhu",
+            "gender":"Female"
+        },
+        {
+            "name":"Madhav",
+            "gender":"Male"
+        }
+    ]
+}
